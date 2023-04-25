@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallavi Karale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An individual with a strong passion for programming in Data Science, hailing from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavikarale&label=Profile%20views&color=0e75b6&style=flat" alt="pallavikarale" /> </p>
 
